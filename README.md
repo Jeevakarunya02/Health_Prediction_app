@@ -57,6 +57,14 @@ This approach is similar to a basic K-Nearest Neighbour model.
 ### View Patient
 
 ![Patient_Table](Patient_table.png)
+
+## Future Enhancements
+
+- Integrate Gemini AI API for advanced health recommendations
+- Use a larger healthcare dataset
+- Replace the custom model with a trained ML model using scikit-learn
+- Deploy the application on Streamlit Cloud
+
 ## Note
 
 This app gives basic screening remarks only. It is not a real medical diagnosis.

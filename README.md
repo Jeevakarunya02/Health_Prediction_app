@@ -48,6 +48,15 @@ The model compares the patient's glucose, haemoglobin, and cholesterol values wi
 
 This approach is similar to a basic K-Nearest Neighbour model.
 
+## Application Screenshots
+
+### Add Patient
+
+![Patient_details](Patient_details.png)
+
+### View Patient
+
+![Patient_Table](Patient_table.png)
 ## Note
 
 This app gives basic screening remarks only. It is not a real medical diagnosis.
